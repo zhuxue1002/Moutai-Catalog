@@ -1,4 +1,4 @@
-# The Construction of Reference Gene Catalog of Moutai's Start and Fermented Grain.
+# The Construction of Reference Gene Catalog of Chinese Liquor's Start and Fermented Grain.
 Necessary resources consist of softwares, algorithms and databases had been provided.
 |   **REAGENT or RESOURCES**  |      **Version**      |                   **SOURCE**                   |                   **IDENTIFIER**                  |
 |:---------------------------:|:---------------------:|:----------------------------------------------:|:-------------------------------------------------:|
