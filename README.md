@@ -1,4 +1,4 @@
-# The Construction of Reference Gene Catalog of Chinese Liquor's Start and Fermented Grain.
+# The Construction of Reference Gene and Genome Catalogs of Chinese Liquor
 Necessary resources consist of softwares, algorithms and databases had been provided.
 |   **REAGENT or RESOURCES**  |      **Version**      |                   **SOURCE**                   |                   **IDENTIFIER**                  |
 |:---------------------------:|:---------------------:|:----------------------------------------------:|:-------------------------------------------------:|
@@ -33,4 +33,4 @@ Necessary resources consist of softwares, algorithms and databases had been prov
 |         Swiss-sport         |        2022_12        |      https://doi.org/10.1093/nar/gkac1052      |              https://www.uniprot.org/             |
 |            TrEMBL           |        2022_12        |      https://doi.org/10.1093/nar/gkac1052      |              https://www.uniprot.org/             |
 |           UniRef50          |        2022_12        |  https://doi.org/10.1093/bioinformatics/btm098 |              https://www.uniprot.org/             |
-|             Pfam            |        2022_12        |               10.1093/nar/gkaa913              |            http://pfam-legacy.xfam.org/           |
+|             Pfam            |        2022_12        |               https://doi.org/10.1093/nar/gkaa913              |            http://pfam-legacy.xfam.org/           |
