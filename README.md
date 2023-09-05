@@ -1,5 +1,5 @@
 # The Construction of Reference Gene Catalog of Maotai's Start and Fermented Grain.
-## Necessary resources consist of softwares, algorithms and databases had been provided.
+Necessary resources consist of softwares, algorithms and databases had been provided.
 | **REAGENT or RESOURCES**    | **Version**           | **SOURCE**                                     | **IDENTIFIER**                                    |
 |-----------------------------|-----------------------|------------------------------------------------|---------------------------------------------------|
 | **Software and algorithms** |                       |                                                |                                                   |
