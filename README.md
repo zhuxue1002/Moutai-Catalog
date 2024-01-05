@@ -1,9 +1,11 @@
 # The Construction of Reference Gene and Genome Catalogs of Chinese Liquor
 Necessary resources consist of softwares, algorithms and databases had been provided.
-| **Key Resource Table** |
+| **Key Resource Table**  | ****                   | ****                                              | ****                                           |
 |:-----------------------:|:----------------------:|:-------------------------------------------------:|:----------------------------------------------:|
-|**REAGENT or RESOURCES** |      **Version**       |                 **IDENTIFIER**                    |                 **SOURCE**                     |
-|**Software and algorithms**|                        |                                                   |                                                |
+|                         |                        |                                                   |                                                |
+|                         |                        |                                                   |                                                |
+| REAGENT or RESOURCES    | Version                | IDENTIFIER                                        | SOURCE                                         |
+| Software and algorithms |                        |                                                   |                                                |
 | Trimmomatic             | v0.38                  | https://github.com/usadellab/Trimmomatic          | https://doi.org/10.1093/bioinformatics/btu170  |
 | MetaPhlAn2              | v2.6.0                 | https://github.com/biobakery/MetaPhlAn2           | https://doi.org/10.1038/nmeth.3589             |
 | MEGAHIT                 | v1.1.2                 | https://github.com/voutcn/megahit                 | https://doi.org/10.1093/bioinformatics/btv033  |
@@ -23,7 +25,7 @@ Necessary resources consist of softwares, algorithms and databases had been prov
 | dRep                    | v3.4.0                 | https://github.com/MrOlm/drep                     | https://doi.org/10.1038/ismej.2017.126         |
 | GTDB-tk                 | v2.1.1                 | https://gtdb.ecogenomic.org/downloads             | https://doi.org/10.1093/bioinformatics/btac672 |
 | Rosetta2                | v2.0                   | https://github.com/h33p/docker-rosetta2           | https://doi.org/10.1006/jmbi.1997.0959         |
-|     **Databases**       | **Date for download**  |              **IDENTIFIER**                       |                 **SOURCE**                     |
+| Databases               | Date for download      | IDENTIFIER                                        | SOURCE                                         |
 | eggNOG                  | v5.0; 2022_12          | http://eggnog5.embl.de/#/app/downloads            | https://doi.org/10.1093/nar/gky1085            |
 | KEGG                    | 2022_12                | http://kobas.cbi.pku.edu.cn/kobas3/download/      | https://doi.org/10.1093/nar/gkaa970            |
 | COG                     | 2022_12                | http://www.ncbi.nlm.nih.gov/COG/                  | http://oi.org/10.1093/nar/gkaa1018             |
@@ -36,6 +38,11 @@ Necessary resources consist of softwares, algorithms and databases had been prov
 | TrEMBL                  | 2022_12                | https://www.uniprot.org/                          | https://doi.org/10.1093/nar/gkac1052           |
 | UniRef50                | 2022_12                | https://www.uniprot.org/                          | https://doi.org/10.1093/bioinformatics/btm098  |
 | Pfam                    | 2022_12                | http://pfam-legacy.xfam.org/                      | https://doi.org/10.1093/nar/gkaa913            |
+|                         |                        |                                                   |                                                |
+|                         |                        |                                                   |                                                |
+|                         |                        |                                                   |                                                |
+|                         |                        |                                                   |                                                |
+
 
 
 **Data availability**
