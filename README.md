@@ -1,7 +1,7 @@
 # The Construction of Reference Gene and Genome Catalogs of Chinese Liquor
 Necessary resources consist of softwares, algorithms and databases had been provided.
 
-<table width="1388.33" border="0" cellpadding="0" cellspacing="0" style='width:833.00pt;border-collapse:collapse;table-layout:fixed;'>
+  <table width="1388.33" border="0" cellpadding="0" cellspacing="0" style='width:833.00pt;border-collapse:collapse;table-layout:fixed;'>
    <col width="444.42" class="xl68" style='mso-width-source:userset;mso-width-alt:13001;'/>
    <col width="173.25" style='mso-width-source:userset;mso-width-alt:5068;'/>
    <col width="409.50" style='mso-width-source:userset;mso-width-alt:11980;'/>
@@ -229,8 +229,15 @@ Necessary resources consist of softwares, algorithms and databases had been prov
     <td class="xl82" height="23" style='height:13.80pt;'></td>
     <td class="xl67" colspan="3" style='mso-ignore:colspan;'></td>
    </tr>
+   <![if supportMisalignedColumns]>
+    <tr width="0" style='display:none;'>
+     <td width="444" style='width:267;'></td>
+     <td width="173" style='width:104;'></td>
+     <td width="409" style='width:246;'></td>
+     <td width="361" style='width:217;'></td>
+    </tr>
+   <![endif]>
   </table>
-
 
 **Data availability**
 
