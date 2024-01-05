@@ -229,14 +229,6 @@ Necessary resources consist of softwares, algorithms and databases had been prov
     <td class="xl82" height="23" style='height:13.80pt;'></td>
     <td class="xl67" colspan="3" style='mso-ignore:colspan;'></td>
    </tr>
-   <![if supportMisalignedColumns]>
-    <tr width="0" style='display:none;'>
-     <td width="444" style='width:267;'></td>
-     <td width="173" style='width:104;'></td>
-     <td width="409" style='width:246;'></td>
-     <td width="361" style='width:217;'></td>
-    </tr>
-   <![endif]>
   </table>
 
 
