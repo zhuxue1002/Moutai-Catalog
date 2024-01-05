@@ -7,7 +7,7 @@ Necessary resources consist of softwares, algorithms and databases had been prov
    <col width="409.50" style='mso-width-source:userset;mso-width-alt:11980;'/>
    <col width="361.17" style='mso-width-source:userset;mso-width-alt:10566;'/>
    <tr height="23" style='height:13.80pt;'>
-    <td class="xl69" height="70.25" width="1388.33" colspan="4" rowspan="3" style='height:42.15pt;width:833.00pt;border-right:none;border-bottom:1.0pt solid windowtext;' x:str>Key Resource Table</td>
+    <td class="xl69" height="70.25" width="1388.33" colspan="4" rowspan="3" style='height:42.15pt;width:833.00pt;border-right:none;border-bottom:1.0pt solid windowtext;' x:str rowspan="4">Key Resource Table</td>
    </tr>
    <tr height="23" style='height:13.80pt;'/>
    <tr height="24.25" style='height:14.55pt;'/>
@@ -213,7 +213,6 @@ Necessary resources consist of softwares, algorithms and databases had been prov
     <td class="xl79" x:str>http://pfam-legacy.xfam.org/</td>
     <td class="xl79" x:str><a href="https://doi.org/10.1093/nar/gkaa913" target="_parent">https://doi.org/10.1093/nar/gkaa913</a></td>
    </tr>
-   
    <![if supportMisalignedColumns]>
     <tr width="0" style='display:none;'>
      <td width="444" style='width:267;'></td>
