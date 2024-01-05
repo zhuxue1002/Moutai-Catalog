@@ -2,7 +2,7 @@
 Necessary resources consist of softwares, algorithms and databases had been provided.
 
 | **key resource table**  |                        |                                                   |                                                |
-|-------------------------|------------------------|---------------------------------------------------|------------------------------------------------|
+|:-----------------------:|:----------------------:|:-------------------------------------------------:|:----------------------------------------------:|
 | **reagent or resources**    | **version**                | **identifier**                                        | **source**                                         |
 | **software and algorithms** |                        |                                                   |                                                |
 | trimmomatic             | v0.38                  | https://github.com/usadellab/trimmomatic          | https://doi.org/10.1093/bioinformatics/btu170  |
