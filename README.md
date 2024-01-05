@@ -1,9 +1,8 @@
 # The Construction of Reference Gene and Genome Catalogs of Chinese Liquor
 Necessary resources consist of softwares, algorithms and databases had been provided.
 
-| **key resource table**  |                        |                                                   |                                                |
-|:-----------------------:|:----------------------:|:-------------------------------------------------:|:----------------------------------------------:|
 | **reagent or resources**    | **version**                | **identifier**                                        | **source**                                         |
+|:-----------------------:|:----------------------:|:-------------------------------------------------:|:----------------------------------------------:|
 | **software and algorithms** |                        |                                                   |                                                |
 | trimmomatic             | v0.38                  | https://github.com/usadellab/trimmomatic          | https://doi.org/10.1093/bioinformatics/btu170  |
 | metaphlan2              | v2.6.0                 | https://github.com/biobakery/metaphlan2           | https://doi.org/10.1038/nmeth.3589             |
