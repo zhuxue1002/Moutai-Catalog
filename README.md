@@ -213,22 +213,7 @@ Necessary resources consist of softwares, algorithms and databases had been prov
     <td class="xl79" x:str>http://pfam-legacy.xfam.org/</td>
     <td class="xl79" x:str><a href="https://doi.org/10.1093/nar/gkaa913" target="_parent">https://doi.org/10.1093/nar/gkaa913</a></td>
    </tr>
-   <tr height="23" style='height:13.80pt;'>
-    <td class="xl81" height="23" style='height:13.80pt;'></td>
-    <td class="xl81" colspan="3" style='mso-ignore:colspan;'></td>
-   </tr>
-   <tr height="23" class="xl67" style='height:13.80pt;'>
-    <td class="xl82" height="23" style='height:13.80pt;'></td>
-    <td class="xl67" colspan="3" style='mso-ignore:colspan;'></td>
-   </tr>
-   <tr height="23" class="xl67" style='height:13.80pt;'>
-    <td class="xl82" height="23" style='height:13.80pt;'></td>
-    <td class="xl67" colspan="3" style='mso-ignore:colspan;'></td>
-   </tr>
-   <tr height="23" class="xl67" style='height:13.80pt;'>
-    <td class="xl82" height="23" style='height:13.80pt;'></td>
-    <td class="xl67" colspan="3" style='mso-ignore:colspan;'></td>
-   </tr>
+   
    <![if supportMisalignedColumns]>
     <tr width="0" style='display:none;'>
      <td width="444" style='width:267;'></td>
