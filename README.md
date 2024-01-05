@@ -4,6 +4,7 @@ Necessary resources consist of softwares, algorithms and databases had been prov
 | Key Resource Table      |                        |                                                   |                                                |   |
 |:-----------------------:|:----------------------:|:-------------------------------------------------:|:----------------------------------------------:|:---:|
 | REAGENT or RESOURCES    | Version                | IDENTIFIER                                        | SOURCE                                         |   |
+|:-----------------------:|:----------------------:|:-------------------------------------------------:|:----------------------------------------------:|:---:|
 | Software and algorithms |                        |                                                   |                                                |   |
 | Trimmomatic             | v0.38                  | https://github.com/usadellab/Trimmomatic          | https://doi.org/10.1093/bioinformatics/btu170  |   |
 | MetaPhlAn2              | v2.6.0                 | https://github.com/biobakery/MetaPhlAn2           | https://doi.org/10.1038/nmeth.3589             |   |
