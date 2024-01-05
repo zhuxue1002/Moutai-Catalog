@@ -1,6 +1,6 @@
 # The Construction of Reference Gene and Genome Catalogs of Chinese Liquor
 Necessary resources consist of softwares, algorithms and databases had been provided.
-| **Key Resource Table**                                          |
+
 |:-----------------------:|:----------------------:|:-------------------------------------------------:|:----------------------------------------------:|
 |                         |                        |                                                   |                                                |
 |                         |                        |                                                   |                                                |
